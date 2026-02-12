@@ -63,19 +63,11 @@ cloud integrations, and performance-focused engineering practices.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevincarcache&show_icons=true&rank_icon=github&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevincarcache&layout=compact&hide_border=true" alt="Top Languages" height="165" />
+  <img src="./assets/metrics.base.svg" alt="GitHub Stats" />
+  <img src="./assets/metrics.languages.svg" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kevincarcache&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevincarcache&hide_border=true" alt="Contribution Graph" />
-</p>
-
-> Note: Dynamic cards depend on external services and may occasionally be rate-limited.
+> Metrics are generated as static SVG files by GitHub Actions (daily and on manual run).
 
 ## Featured Repositories
 
