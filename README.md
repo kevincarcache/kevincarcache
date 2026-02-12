@@ -67,6 +67,10 @@ cloud integrations, and performance-focused engineering practices.
   <img src="./assets/metrics.languages.svg" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="./assets/metrics.languages.activity.svg" alt="Language Activity (Most Used and Recently Used)" />
+</p>
+
 > Metrics are generated as static SVG files by GitHub Actions (daily and on manual run).
 
 ## Featured Repositories
